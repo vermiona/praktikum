@@ -1,5 +1,5 @@
 <?php
 //TAMPILKAN TEXT bjbjhvhgv
 echo"saya senang kuliah tiap hari"
-//ayo mengoding
+//ayo mengoding dengan semangat
 ?>
