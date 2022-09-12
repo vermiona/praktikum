@@ -1,5 +1,5 @@
 <?php
-//TAMPILKAN TEXT
+//TAMPILKAN TEXT bjbjhvhgv
 echo"saya senang kuliah tiap hari"
 
 ?>
